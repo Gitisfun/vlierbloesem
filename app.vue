@@ -8,7 +8,7 @@
 }
 .app-background {
   min-height: 100vh;
-  background-image: url("~~/elderflower.png");
+  background-image: url("~~/assets/elderflower.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
