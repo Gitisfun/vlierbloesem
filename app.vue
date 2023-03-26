@@ -1,5 +1,7 @@
 <template>
-  <div class="app-background"></div>
+  <div class="app-background">
+    <NuxtPage />
+  </div>
 </template>
 
 <style>
