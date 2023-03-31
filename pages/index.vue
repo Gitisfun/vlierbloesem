@@ -21,6 +21,10 @@ useHead({
       content:
         "Vlierbloesem is heel gezond en kan voor allerlei kwalen gebruikt worden: Het werkt zweetopwekkend en is vochtafdrijvend. Zo helpt de vlier om griep te voorkomen en zorgt het dat een eenmaal gevat griepje minder lang duurt. Hij is ook in te zetten bij slijmvliesontsteking en hooikoorts",
     },
+    {
+      name: "google-site-verification",
+      content: "rVBl0cI2tkRTGUQ7D3Hs61LHoVTI-1tadMnVrDhyoDo",
+    },
   ],
 });
 </script>
